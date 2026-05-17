@@ -133,3 +133,6 @@ $ mvn package
 
 ## License
 Released under the [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause) license as specified here: [LICENSE](https://github.com/nahsra/antisamy/blob/main/LICENSE).
+
+## Infrastructure as Code
+Deployment infrastructure is defined as code in the iac/ directory.
